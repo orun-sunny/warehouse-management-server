@@ -11,5 +11,6 @@ namespace WarehouseManagement.Domain.Entities
         public DateTime? UpdateAt { get; set; }
         public Guid  CreatedBy { get; set; }
         public Guid? UpdatedBy { get; set; }
+
     }
 }
